@@ -341,5 +341,25 @@ Example evaluation records compiled in the system:
 * **SHAP Explainability Integration**: Use SHAP values directly in the backend for deeper ML insights.
 * **Auto-Retraining Pipeline**: Implement cron jobs to retrain the model daily as new records are stored in `loans.db`.
 * **Multilingual Frontend**: Support local Indian languages (Hindi, Telugu, Tamil, etc.).
-#   L o a n - A p p r o v a l - P r e d i c t o r  
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💼 Contact & Support
+
+For questions, feedback, or contributions:
+* **Developer**: M. Venkata Ramana
+* **University**: Aditya University
+* **Program**: Master of Computer Applications (MCA)
+* **Batch**: 2025-27
+* **Roll Number**: 25M11MC089
+
+**Happy Coding! 🚀**
+#   L o a n - A p p r o v a l - P r e d i c t o r 
+ 
  
